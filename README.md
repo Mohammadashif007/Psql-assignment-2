@@ -27,9 +27,8 @@ CHAR- CHAR is a SQL data type that stored fixed length character strings. If the
 
 VARCHAR- VARCHAR is also a SQL data type that stored variable-length character strings. Unlike CHAR , it only take as much as space needed.
 
-## Difference Between CHAR and VARCHAR
 
-| Feature         | `CHAR(n)`                              | `VARCHAR(n)`                            |
+| Feature         | `CHAR`                              | `VARCHAR`                            |
 |-----------------|-----------------------------------------|------------------------------------------|
 | **Definition**  | Fixed-length character string           | Variable-length character string         |
 | **Padding**     | Pads with spaces if input is shorter    | No padding                               |
