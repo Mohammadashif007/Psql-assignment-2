@@ -34,7 +34,7 @@ VARCHAR- VARCHAR is also a SQL data type that stored variable-length character s
 | **Padding**     | Pads with spaces if input is shorter    | No padding                               |
 | **Performance** | Slightly faster for fixed-length data   | More space-efficient for variable data   |
 
-## Explain the purpose of the WHERE clause in a SELECT statement.
+## 5.Explain the purpose of the WHERE clause in a SELECT statement.
 The WHERE clause is used to specify a condition while fetching data in a database. It filters the rows those are meet the condition.
 
 WHERE helps you fetch only the data you need, instead of all the rows in a table.
